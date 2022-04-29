@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors – Java Test
 
-Write a program that plays 10 iterations of Rock, Paper, Scissors (a name="" link="https://en.wikipedia.org/wiki/Rock-paper-scissors").
+Write a program that plays 10 iterations of Rock, Paper, Scissors (https://en.wikipedia.org/wiki/Rock-paper-scissors).
 
 There should be two modes of play, one fair, where both players should play always randomly, another unfair, where one player should 
 always play randomly, the other should always choose rock.
